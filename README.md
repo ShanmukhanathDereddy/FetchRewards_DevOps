@@ -26,9 +26,6 @@ First ensure to install python3, pip, awscli, boto3 and pyyaml on the machine. I
 
 Second need to create an AWS User with Programmatic access and with full permission to EC2.
 
-![alt text](http://url/to/img.png)
-
-
 The Script in `config.yaml` will provision the VM, users and volumes
 
 `python fetchRewards.py`
